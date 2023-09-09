@@ -19,7 +19,6 @@ GroHouse- Online Grocery Store.
     <img src="https://user-images.githubusercontent.com/75885182/210265539-1acccc72-8f74-42bf-9df4-6594c69749fa.jpg" height=500px >
 
 <img src="https://user-images.githubusercontent.com/75885182/210265543-5a19c61a-8a21-43bc-b560-b5b4eb4f5b51.jpg" height=500px ><img src="https://user-images.githubusercontent.com/75885182/210265570-e08c1cc0-6d58-49cb-b496-60d1d5c71c22.jpg" height=500px ><img src="https://user-  images.githubusercontent.com/75885182/210265574-d4daee63-2687-47c6-ae9a-2e2ded231e8f.jpg" height=500px >
-    <img src="https://user-images.githubusercontent.com/75885182/210265578-b2512f83-64eb-4d10-849a-18b2f04e25f6.jpg" height=500px >
     <img src="https://user-images.githubusercontent.com/75885182/210265567-7d43a968-b744-4714-8e53-ca58c68c02fc.jpg" height=500px >
     <img src="https://user-images.githubusercontent.com/75885182/210265482-b1e83262-c74c-4333-8df6-d38ee4c625e0.jpg" height=500px >
     <img src="https://user-images.githubusercontent.com/75885182/210265525-3c6c4cb8-8386-4250-a207-138689bb840c.jpg" height=500px >
